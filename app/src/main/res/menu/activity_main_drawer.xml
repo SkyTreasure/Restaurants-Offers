@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/twitter" android:icon="@drawable/twitter"
+            android:title="Twitter" />
+        <item android:id="@+id/linkedin" android:icon="@drawable/linkedin"
+            android:title="LinkedIn" />
+        <item android:id="@+id/instagram" android:icon="@drawable/instagram"
+            android:title="Instagram" />
+        <item android:id="@+id/github" android:icon="@drawable/github"
+            android:title="GitHub" />
+
+    </group>
+
+
+
+</menu>
